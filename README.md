@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @owlboy13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋🦉 Hi, I’m @owlboy13
+- 👀 I’m interested in ... Backend Development in Python and Practical solutions
+- 🌱 I’m currently learning ... Python and Excel
+- 🤜🤛 I’m looking to collaborate on ... Develop practical solutions to complex problems using Python
+- 📫 How to reach me ... andersonlfo@gmail.com
 
-<!---
-owlboy13/owlboy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
