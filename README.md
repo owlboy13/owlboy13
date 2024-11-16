@@ -1,5 +1,5 @@
 - 👋🦉 Hi, I’m @owlboy13
 - 👀 I’m interested in ... Backend Development
 - 👨‍🎓 I am currently studying Systems Analysis and Development
-- 🤜🤛 I’m looking to collaborate on ... Develop practical solutions to complex problems using Python
+- 🤜🤛 I’m looking to collaborate on ... Develop practical solutions to complex problems.
 - 📫 How to reach me ... anderson_lfo@outlook.com
