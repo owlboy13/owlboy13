@@ -18,7 +18,3 @@
 
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlboy13&layout=donut)](https://github.com/owlboy13/github-readme-stats)
-
-
-
