@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonluiz-dev)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](mailto:andersonluiz.dev@gmail.com)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5583999208007)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owlboy13&show_icons=true&theme=transparent)
-
 ### Tools
 
 <div style="display: inline_block">
