@@ -1,5 +1,3 @@
-### Hello! I am Anderson Luiz 🤙
-
 ### My Tools
 
 <div style="display: inline_block">
