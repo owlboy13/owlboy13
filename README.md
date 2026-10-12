@@ -11,7 +11,7 @@
 </div><br/>
 
 I turn repetitive processes into efficient code. I build end-to-end solutions
-with Python — from data dashboards and automations to web systems, with a
+with Python from data dashboards and automations to web systems, with a
 growing focus on data engineering and data security.
 
 ## What I do
