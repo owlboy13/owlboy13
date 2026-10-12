@@ -26,4 +26,4 @@ growing focus on data engineering and data security.
 - **Backend & Data:** Python · Django · Flask · Pandas · SQL · PostgreSQL · SQLite
 - **Automation:** Selenium · Web Scraping · Celery · Redis
 - **Cloud & Security:** AWS (VPC, IAM) · LGPD · ISO 27001
-- **Tools:** Docker · Git · Streamlit · Twilio · LLMs (Claude)
+- **Tools:** Docker · Git · Streamlit · Twilio
